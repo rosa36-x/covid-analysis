@@ -14,6 +14,8 @@ ENV/
 
 # Output / generated files
 output/
+cleaned_corona.csv
+cleaned_corona_data.csv
 
 # OS files
 .DS_Store
